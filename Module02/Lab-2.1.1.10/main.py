@@ -1,4 +1,3 @@
-from importlib.util import set_loader
 
 
 class TimeInterval:

@@ -1,5 +1,5 @@
 import abc
-
+@abc.abstractclass
 class AbstractScanner(abc.ABC): 
     
     @abc.abstractmethod
